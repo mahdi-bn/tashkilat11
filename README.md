@@ -1,5 +1,5 @@
 # tashkilat11
 print(contract address)
-print(000)
+print
 print(code code ggg)
 
