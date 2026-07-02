@@ -6,4 +6,3 @@ print(000)
 print(code code)
 x+y=10
 x=y
-print(y)
